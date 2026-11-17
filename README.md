@@ -1,4 +1,4 @@
-[mapa_mental_estrat_gico_alento.html](https://github.com/user-attachments/files/34953636/mapa_mental_estrat_gico_alento.html)[Uploading ma<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
